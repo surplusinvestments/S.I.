@@ -10,7 +10,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Careers
 ### [Contact Us](https://surplus.investments/contacts/)
 ![Image](src)
-[Discord](url)
+[Email](surplusinvestments@gmail.com)
+![Image](src)
+[Discord](https://discord.gg/G8cnc9nVuc)
 ![Image](src)
 [Twitter](url) 
 ![Image](src)
