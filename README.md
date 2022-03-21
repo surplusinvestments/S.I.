@@ -3,7 +3,6 @@
 ## About Us
 ## Our Insights
 ## Our Ventures
-## Careers
 ## Contact Us
 ![Image](src)
 [Email](url)
