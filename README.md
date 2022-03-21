@@ -1,5 +1,5 @@
 # Surplus Investments
-
+![SI LOGO B](https://user-images.githubusercontent.com/93648666/159193895-9971b33f-1a65-485e-b53a-2b5809a737b8.jpg)
 ## About Us
 ## Our Insights
 ## Our Ventures
