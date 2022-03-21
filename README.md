@@ -12,11 +12,11 @@
 ![Image](src)
 [Twitter](https://twitter.com/surplusinvest) 
 ![Image](src)
-[Instagram](url) 
+[Instagram](https://www.instagram.com/surplusinvestments/) 
 ![Image](src)
 [TradingView](url) 
 ![Image](src)
-[YouTube](url)
+[YouTube](https://www.youtube.com/channel/UCwqRwTKwieJxXN-ZSDZ1EAw/featured)
 ![Image](src)
 [Facebook](url)
 
