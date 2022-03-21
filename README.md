@@ -4,7 +4,7 @@
 ## Our Insights
 ## Our Ventures
 ## Careers
-### [Contact Us](https://surplus.investments/contacts/)
+## Contact Us
 ![Image](src)
 [Email](url)
 ![Image](src)
