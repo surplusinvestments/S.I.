@@ -1,6 +1,7 @@
 # Surplus Investments
 ![twitter blue logo](https://user-images.githubusercontent.com/93648666/159193987-8757a9c8-83ac-4d23-99c9-64767979473d.jpg)
 ## About Us
+'A community designed to focus on developing a strong financial skillset and share ideas regarding the financial markets.'
 ## Our Insights
 ## Our Ventures
 ## Contact Us
