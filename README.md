@@ -20,14 +20,3 @@
 ![facebook logo](https://user-images.githubusercontent.com/93648666/159547076-72d42b69-391c-4bfe-9769-1de6eedfb19e.png)
 [Facebook](url)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
