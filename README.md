@@ -37,7 +37,6 @@ Designed to focus on developing a strong financial skillset and share ideas rega
 </div>
 <!-- TradingView Widget END -->
 
-## Our Ventures
 ## Contact Us
 ![Gmail-logo](https://user-images.githubusercontent.com/93648666/159546255-2d17ad8a-90cf-4b5d-99d7-e6d349d61571.png)
 [Email](https://mail.google.com/mail/u/0/?to=surplusinvestments@gmail.com&fs=1&tf=cm)
