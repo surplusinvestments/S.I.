@@ -5,7 +5,7 @@ Designed to focus on developing a strong financial skillset and share ideas rega
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_9948f"></div>
+  <div id="tradingview_c2de4"></div>
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/SPY/" rel="noopener" target="_blank"><span class="blue-text">SPY Chart</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
@@ -13,13 +13,14 @@ Designed to focus on developing a strong financial skillset and share ideas rega
   {
   "autosize": true,
   "symbol": "SPY",
-  "interval": "3",
+  "interval": "15",
   "timezone": "America/Los_Angeles",
   "theme": "dark",
   "style": "1",
   "locale": "en",
   "toolbar_bg": "#f1f3f6",
   "enable_publishing": true,
+  "withdateranges": true,
   "hide_side_toolbar": false,
   "allow_symbol_change": true,
   "studies": [
@@ -28,7 +29,7 @@ Designed to focus on developing a strong financial skillset and share ideas rega
   "show_popup_button": true,
   "popup_width": "1000",
   "popup_height": "650",
-  "container_id": "tradingview_9948f"
+  "container_id": "tradingview_c2de4"
 }
   );
   </script>
