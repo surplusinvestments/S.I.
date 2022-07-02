@@ -40,6 +40,7 @@ Designed to focus on developing a strong financial skillset and share ideas rega
 ## Contact Us
 <img src="https://user-images.githubusercontent.com/93648666/159546255-2d17ad8a-90cf-4b5d-99d7-e6d349d61571.png" width="150" height="100">
 [Email](https://mail.google.com/mail/u/0/?to=surplusinvestments@gmail.com&fs=1&tf=cm)
+
 ![Discord-Logo](https://user-images.githubusercontent.com/93648666/159546971-c23974d2-b92a-4cfe-8d00-24e87b6446c8.png)
 [Discord](https://discord.gg/G8cnc9nVuc)
 ![Twitter-Logo](https://user-images.githubusercontent.com/93648666/159547341-aa726d41-9990-410d-aa32-821e7daccd87.png)
