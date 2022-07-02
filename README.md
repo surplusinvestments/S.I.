@@ -2,6 +2,39 @@
 ## About Us
 Designed to focus on developing a strong financial skillset and share ideas regarding the financial markets.
 ## Our Insights
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div id="tradingview_9948f"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/SPY/" rel="noopener" target="_blank"><span class="blue-text">SPY Chart</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.widget(
+  {
+  "autosize": true,
+  "symbol": "SPY",
+  "interval": "3",
+  "timezone": "America/Los_Angeles",
+  "theme": "dark",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "enable_publishing": true,
+  "hide_side_toolbar": false,
+  "allow_symbol_change": true,
+  "studies": [
+    "MAExp@tv-basicstudies"
+  ],
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650",
+  "container_id": "tradingview_9948f"
+}
+  );
+  </script>
+</div>
+<!-- TradingView Widget END -->
+
 ## Our Ventures
 ## Contact Us
 ![Gmail-logo](https://user-images.githubusercontent.com/93648666/159546255-2d17ad8a-90cf-4b5d-99d7-e6d349d61571.png)
