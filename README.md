@@ -2,7 +2,7 @@
 ## About Us
 Designed to focus on developing a strong financial skillset and share ideas regarding the financial markets.
 ## Our Insights
-Use the position tool located on the left toolbar above the smiley face to manage risk. 
+Manage risk using the position tool located on the left toolbar above the smiley face. 
 Live market insights may be found on discord or twitter. Not financial advice, for educational purposes only.
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
