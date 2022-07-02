@@ -47,7 +47,7 @@ Designed to focus on developing a strong financial skillset and share ideas rega
 <img src="https://user-images.githubusercontent.com/93648666/159547341-aa726d41-9990-410d-aa32-821e7daccd87.png" width="200" height="125">
 [Twitter](https://twitter.com/surplusinvest) 
 
-<img src="https://user-images.githubusercontent.com/93648666/159547033-5c83e024-35d6-4eb4-a3f9-85c535944b6c.png" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/93648666/159547033-5c83e024-35d6-4eb4-a3f9-85c535944b6c.png" width="175" height="175">
 [Instagram](https://www.instagram.com/surplusinvestments/) 
 
 <img src="https://user-images.githubusercontent.com/93648666/159547059-efc55726-2e13-4274-88d5-6cad9fb8c0b3.png" width="200" height="125">
