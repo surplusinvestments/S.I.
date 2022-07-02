@@ -38,7 +38,7 @@ Designed to focus on developing a strong financial skillset and share ideas rega
 <!-- TradingView Widget END -->
 
 ## Contact Us
-![Gmail-logo](https://user-images.githubusercontent.com/93648666/159546255-2d17ad8a-90cf-4b5d-99d7-e6d349d61571.png =100x100) 
+![Gmail-logo](https://user-images.githubusercontent.com/93648666/159546255-2d17ad8a-90cf-4b5d-99d7-e6d349d61571.png | width=100px) 
 [Email](https://mail.google.com/mail/u/0/?to=surplusinvestments@gmail.com&fs=1&tf=cm)
 ![Discord-Logo](https://user-images.githubusercontent.com/93648666/159546971-c23974d2-b92a-4cfe-8d00-24e87b6446c8.png)
 [Discord](https://discord.gg/G8cnc9nVuc)
