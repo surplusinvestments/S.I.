@@ -39,7 +39,7 @@ Live market insights may be found on discord or twitter. Not financial advice, f
 <!-- TradingView Widget END -->
 
 <a class="twitter-timeline" data-width="500" data-height="400" data-dnt="true" data-theme="light" href="https://twitter.com/cartier618?ref_src=twsrc%5Etfw">Tweets by cartier618</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-[a href="https://twitter.com/cartier618?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @cartier618</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"]</script>
+<a href="https://twitter.com/cartier618?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-dnt="true" data-show-count="false">Follow @cartier618</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://twitter.com/intent/tweet?screen_name=cartier618&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-text="#ES_F #SPY $ES $SPY $SPX" data-related="" data-dnt="true" data-show-count="false">Tweet to @cartier618</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Contact Us
