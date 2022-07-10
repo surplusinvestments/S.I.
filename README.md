@@ -40,7 +40,7 @@ Live market insights may be found on discord or twitter. Not financial advice, f
 
 <a class="twitter-timeline" data-width="500" data-height="400" data-dnt="true" data-theme="light" href="https://twitter.com/cartier618?ref_src=twsrc%5Etfw">Tweets by cartier618</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://twitter.com/cartier618?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @cartier618</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/intent/tweet?screen_name=cartier618&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-text="#ES_F #SPY $ES $SPY $SPX" data-related="" data-dnt="true" data-show-count="false">Tweet to @cartier618</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?screen_name=cartier618&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-text="#ES_F #SPY $ES $SPY $SPX" data-related="" data-dnt="true" data-show-count="false">Tweet to @cartier618</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Contact Us
 <img src="https://user-images.githubusercontent.com/93648666/159546255-2d17ad8a-90cf-4b5d-99d7-e6d349d61571.png" width="200" height="125">
