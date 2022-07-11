@@ -43,6 +43,22 @@ Live market insights may be found on discord or twitter. Not financial advice, f
 <a href="https://twitter.com/cartier618?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-dnt="true" data-show-count="false">Follow @cartier618</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://twitter.com/intent/tweet?screen_name=cartier618&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-text="#ES_F #SPY $ES $SPY $SPX" data-related="" data-dnt="true" data-show-count="false">Tweet to @cartier618</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/SPYUSD/?exchange=FTX" rel="noopener" target="_blank"><span class="blue-text">SPYUSD Rates</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js" async>
+  {
+  "symbol": "FTX:SPYUSD",
+  "width": 350,
+  "colorTheme": "light",
+  "isTransparent": false,
+  "locale": "en"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+
 ## Contact Us
 <img src="https://user-images.githubusercontent.com/93648666/159546255-2d17ad8a-90cf-4b5d-99d7-e6d349d61571.png" width="200" height="125">
 [Email](https://mail.google.com/mail/u/0/?to=surplusinvestments@gmail.com&fs=1&tf=cm)
