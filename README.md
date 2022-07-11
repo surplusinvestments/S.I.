@@ -95,8 +95,8 @@ Live market insights may be found on discord or twitter. Not financial advice, f
     "MAExp@tv-basicstudies"
   ],
   "show_popup_button": true,
-  "popup_width": "500",
-  "popup_height": "325",
+  "popup_width": "1000",
+  "popup_height": "650",
   "container_id": "tradingview_d2fe4"
 }
   );
