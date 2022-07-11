@@ -107,5 +107,183 @@ Live market insights may be found on discord or twitter. Not financial advice, f
 
 <iframe frameborder="0" scrolling="auto" height="650" width="545" allowtransparency="true" marginwidth="0" marginheight="0" src="https://ssltools.investing.com/fibonacci-calculator/index.php?force_lang=1"></iframe><br /><div style="width:450"><span style="float:left"><span style="font-size: 11px;color: #333333;text-decoration: none;">The Fibonacci Calculator is powered by <a href="https://www.investing.com/" rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com</a></span></span></div>
 
+<iframe frameborder="0" scrolling="no" height=82 width="231" allowtransparency="true" marginwidth="0" marginheight="0" src="https://sslirates.investing.com/index.php?rows=2&bg1=FFFFFF&bg2=F1F5F8&text_color=333333&enable_border=show&border_color=0452A1&header_bg=0452A1&header_text=FFFFFF&force_lang=1" align="center"></iframe><br /><table width="200"><tbody><tr><td style="text-align:left"><a href="https://www.investing.com" rel="nofollow" target="_blank"><img style="vertical-align:middle;" title="Investing.com" alt="Investing.com" border="0" src="https://92f8049275b46d631f32-c598b43a8fdedd4f0b9230706bd7ad18.ssl.cf1.rackcdn.com/forexpros_en_logo.png"></a></td></tr><tr><td><span style="font-size: 11px;color: #333333;text-decoration: none;">Interest Rates powered by <a href="//www.investing.com/" rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com</a>.</span></td></tr></tbody></table>
 
 <iframe src="https://www.widgets.investing.com/top-cryptocurrencies?theme=lightTheme" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe><div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;">Powered by <a href="https://www.investing.com?utm_source=WMT&amp;utm_medium=referral&amp;utm_campaign=TOP_CRYPTOCURRENCIES&amp;utm_content=Footer%20Link" target="_blank" rel="nofollow">Investing.com</a></div>
+
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">SI</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+  {
+  "colorTheme": "dark",
+  "dateRange": "1D",
+  "showChart": true,
+  "locale": "en",
+  "largeChartUrl": "",
+  "isTransparent": false,
+  "showSymbolLogo": true,
+  "showFloatingTooltip": false,
+  "width": "400",
+  "height": "660",
+  "plotLineColorGrowing": "rgba(41, 98, 255, 1)",
+  "plotLineColorFalling": "rgba(41, 98, 255, 1)",
+  "gridLineColor": "rgba(42, 46, 57, 0)",
+  "scaleFontColor": "rgba(120, 123, 134, 1)",
+  "belowLineFillColorGrowing": "rgba(41, 98, 255, 0.12)",
+  "belowLineFillColorFalling": "rgba(41, 98, 255, 0.12)",
+  "belowLineFillColorGrowingBottom": "rgba(41, 98, 255, 0)",
+  "belowLineFillColorFallingBottom": "rgba(41, 98, 255, 0)",
+  "symbolActiveColor": "rgba(41, 98, 255, 0.12)",
+  "tabs": [
+    {
+      "title": "Indices",
+      "symbols": [
+        {
+          "s": "FOREXCOM:SPXUSD",
+          "d": "S&P 500"
+        },
+        {
+          "s": "FOREXCOM:NSXUSD",
+          "d": "US 100"
+        },
+        {
+          "s": "FOREXCOM:DJI",
+          "d": "Dow 30"
+        },
+        {
+          "s": "INDEX:NKY",
+          "d": "Nikkei 225"
+        },
+        {
+          "s": "INDEX:DEU40",
+          "d": "DAX Index"
+        },
+        {
+          "s": "FOREXCOM:UKXGBP",
+          "d": "UK 100"
+        },
+        {
+          "s": "FTX:SPYUSD",
+          "d": "S&P 500 FTX"
+        }
+      ],
+      "originalTitle": "Indices"
+    },
+    {
+      "title": "Futures",
+      "symbols": [
+        {
+          "s": "CME_MINI:ES1!",
+          "d": "S&P 500"
+        },
+        {
+          "s": "CME:6E1!",
+          "d": "Euro"
+        },
+        {
+          "s": "COMEX:GC1!",
+          "d": "Gold"
+        },
+        {
+          "s": "NYMEX:CL1!",
+          "d": "Crude Oil"
+        },
+        {
+          "s": "NYMEX:NG1!",
+          "d": "Natural Gas"
+        },
+        {
+          "s": "CBOT:ZC1!",
+          "d": "Corn"
+        }
+      ],
+      "originalTitle": "Futures"
+    },
+    {
+      "title": "Bonds",
+      "symbols": [
+        {
+          "s": "CME:GE1!",
+          "d": "Eurodollar"
+        },
+        {
+          "s": "CBOT:ZB1!",
+          "d": "T-Bond"
+        },
+        {
+          "s": "CBOT:UB1!",
+          "d": "Ultra T-Bond"
+        },
+        {
+          "s": "EUREX:FGBL1!",
+          "d": "Euro Bund"
+        },
+        {
+          "s": "EUREX:FBTP1!",
+          "d": "Euro BTP"
+        },
+        {
+          "s": "EUREX:FGBM1!",
+          "d": "Euro BOBL"
+        }
+      ],
+      "originalTitle": "Bonds"
+    },
+    {
+      "title": "Forex",
+      "symbols": [
+        {
+          "s": "FX:EURUSD",
+          "d": "EUR/USD"
+        },
+        {
+          "s": "FX:GBPUSD",
+          "d": "GBP/USD"
+        },
+        {
+          "s": "FX:USDJPY",
+          "d": "USD/JPY"
+        },
+        {
+          "s": "FX:USDCHF",
+          "d": "USD/CHF"
+        },
+        {
+          "s": "FX:AUDUSD",
+          "d": "AUD/USD"
+        },
+        {
+          "s": "FX:USDCAD",
+          "d": "USD/CAD"
+        }
+      ],
+      "originalTitle": "Forex"
+    },
+    {
+      "title": "SI",
+      "symbols": [
+        {
+          "s": "FTX:SPYUSD"
+        },
+        {
+          "s": "AMEX:SPY"
+        },
+        {
+          "s": "CME_MINI:ES1!"
+        },
+        {
+          "s": "NASDAQ:QQQ"
+        },
+        {
+          "s": "BITSTAMP:BTCUSD"
+        }
+      ]
+    }
+  ]
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
