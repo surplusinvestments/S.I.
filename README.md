@@ -436,4 +436,4 @@ Live market insights may be found on discord or twitter. Not financial advice, f
 <!-- TradingView Widget END -->
 
 
-<iframe height="1000" width="650" src="https://ssltvc.investing.com/?pair_ID=525&height=1000&width=650&interval=300&plotStyle=bars&domain_ID=1&lang_ID=1&timezone_ID=2"></iframe>
+<iframe height="650" width="650" src="https://ssltvc.investing.com/?pair_ID=SPY&height=650&width=650&interval=300&plotStyle=bars&domain_ID=1&lang_ID=1&timezone_ID=2"></iframe>
