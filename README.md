@@ -12,9 +12,9 @@ Live market insights may be found on discord or twitter. Not financial advice, f
   <script type="text/javascript">
   new TradingView.widget(
   {
-  "width": 980,
+  "width": 610,
   "height": 610,
-  "symbol": "SPY",
+  "symbol": "SPX500",
   "interval": "15",
   "timezone": "America/Los_Angeles",
   "theme": "dark",
