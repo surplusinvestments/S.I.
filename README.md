@@ -14,7 +14,7 @@ Live market insights may be found on discord or twitter. Not financial advice, f
   {
   "width": 600,
   "height": 550,
-  "symbol": "SPX500",
+  "symbol": "SPX",
   "interval": "15",
   "timezone": "America/Los_Angeles",
   "theme": "dark",
