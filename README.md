@@ -6,8 +6,8 @@ Manage risk using the position tool located on the left toolbar above the smiley
 Live market insights may be found on discord or twitter. Not financial advice, for educational purposes only.
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_d2fe4"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/SPY/" rel="noopener" target="_blank"><span class="blue-text">SPY Chart</span></a> by TradingView</div>
+  <div id="tradingview_f2bc9"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/SPX/" rel="noopener" target="_blank"><span class="blue-text">SPX Chart</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
   new TradingView.widget(
@@ -31,7 +31,7 @@ Live market insights may be found on discord or twitter. Not financial advice, f
   "show_popup_button": true,
   "popup_width": "1000",
   "popup_height": "650",
-  "container_id": "tradingview_d2fe4"
+  "container_id": "tradingview_f2bc9"
 }
   );
   </script>
