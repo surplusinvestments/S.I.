@@ -4,6 +4,38 @@ Designed to focus on developing a strong financial skillset and share ideas rega
 ## Our Insights
 Manage risk using the position tool located on the left toolbar above the smiley face. 
 Live market insights may be found on discord or twitter. Not financial advice, for educational purposes only.
+
+
+<!-- Finlogix Widget BEGIN-->
+    <div class="finlogix-container">
+	
+    <div id="26b1c6"></div>
+    </div>
+	
+    <script type="text/javascript" src="https://widget.finlogix.com/Widget.js"></script>
+	
+    <script type="text/javascript">
+		
+    Widget.init({
+			type: 'BigChart',
+			width: 100%,
+			height: 100%,
+			language: 'en',
+			isAdaptive: true,
+			symbolName: 'SPY',
+			hasSymbolDetail: false,
+			hasSymbolName: true,
+			hasSymbolChange: true,
+			hasButton: false,
+			hasSearchBar: true,
+			timeframe: 'M15',
+			chartShape: 'candles'
+		})
+	</script>
+<!-- Finlogix Widget END-->
+
+
+
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tradingview_a85c5"></div>
