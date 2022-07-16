@@ -6,32 +6,6 @@ Manage risk using the position tool located on the left toolbar above the smiley
 Live market insights may be found on discord or twitter. Not financial advice, for educational purposes only.
 
 
-  <div class="finlogix-container">
-	
-    <div id="f5ac33"></div>
-    </div>
-	
-    <script type="text/javascript" src="https://widget.finlogix.com/Widget.js"></script>
-	
-    <script type="text/javascript">
-		
-    Widget.init({
-			type: 'BigChart',
-			width: 100%,
-			height: 100%,
-			language: 'en',
-			isAdaptive: true,
-			symbolName: 'SPY',
-			hasSymbolDetail: false,
-			hasSymbolName: true,
-			hasSymbolChange: true,
-			hasButton: false,
-			hasSearchBar: false,
-			timeframe: 'M15',
-			chartShape: 'candles'
-		})
-	</script>
-</div>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
