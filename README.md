@@ -5,7 +5,32 @@ Designed to focus on developing a strong financial skillset and share ideas rega
 Manage risk using the position tool located on the left toolbar above the smiley face. 
 Live market insights may be found on discord or twitter. Not financial advice, for educational purposes only.
 
-
+<!-- Finlogix Widget BEGIN-->
+    <div class="finlogix-container">
+	
+    <div id="6b092f"></div>
+    </div>
+	
+    <script type="text/javascript" src="https://widget.finlogix.com/Widget.js"></script>
+	
+    <script type="text/javascript">
+		
+    Widget.init({
+			type: 'BigChart',
+			width: 1265,
+			height: 666,
+			language: 'en',
+			symbolName: 'Tesla',
+			hasSymbolDetail: false,
+			hasSymbolName: true,
+			hasSymbolChange: true,
+			hasButton: false,
+			hasSearchBar: true,
+			timeframe: 'D1',
+			chartShape: 'candles'
+		})
+	</script>
+<!-- Finlogix Widget END-->
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
