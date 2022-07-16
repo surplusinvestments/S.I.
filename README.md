@@ -31,6 +31,7 @@ Live market insights may be found on discord or twitter. Not financial advice, f
 			chartShape: 'candles'
 		})
 	</script>
+</div>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
