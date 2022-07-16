@@ -7,7 +7,7 @@ Live market insights may be found on discord or twitter. Not financial advice, f
 
 
 <!-- Finlogix Widget BEGIN-->
-    <div class="finlogix-container">
+<div class="finlogix-container">
 	
     <div id="26b1c6"></div>
     </div>
