@@ -213,7 +213,7 @@ Live market insights may be found on discord or twitter. Not financial advice, f
 <img src="https://user-images.githubusercontent.com/93648666/159547076-72d42b69-391c-4bfe-9769-1de6eedfb19e.png" width="175" height="175">
 [Facebook](url)
 
-<div style="height:62px; background-color: #FFFFFF; overflow:hidden; box-sizing: border-box; border: 1px solid #56667F; border-radius: 4px; text-align: right; line-height:14px; block-size:62px; font-size: 12px; font-feature-settings: normal; text-size-adjust: 100%; box-shadow: inset 0 -20px 0 0 #56667F;padding:1px;padding: 0px; margin: 0px; width: 100%;"><div style="height:40px; padding:0px; margin:0px; width: 100%;"><iframe src="https://widget.coinlib.io/widget?type=horizontal_v2&theme=light&pref_coin_id=1505&invert_hover=yes" width="100%" height="36px" scrolling="auto" marginwidth="0" marginheight="0" frameborder="0" border="0" style="border:0;margin:0;padding:0;"></iframe></div><div style="color: #FFFFFF; line-height: 14px; font-weight: 400; font-size: 11px; box-sizing: border-box; padding: 2px 6px; width: 100%; font-family: Verdana, Tahoma, Arial, sans-serif;"><a href="https://coinlib.io" target="_blank" style="font-weight: 500; color: #FFFFFF; text-decoration:none; font-size:11px">Cryptocurrency Prices</a>&nbsp;by Coinlib</div></div>
+
 
 
 ## Market Statistics
@@ -255,9 +255,6 @@ Live market insights may be found on discord or twitter. Not financial advice, f
 
 <iframe frameborder="0" scrolling="auto" height="650" width="545" allowtransparency="true" marginwidth="0" marginheight="0" src="https://ssltools.investing.com/fibonacci-calculator/index.php?force_lang=1"></iframe><br /><div style="width:450"><span style="float:left"><span style="font-size: 11px;color: #333333;text-decoration: none;">The Fibonacci Calculator is powered by <a href="https://www.investing.com/" rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com</a></span></span></div>
 
-<iframe frameborder="0" scrolling="no" height=82 width="231" allowtransparency="true" marginwidth="0" marginheight="0" src="https://sslirates.investing.com/index.php?rows=2&bg1=FFFFFF&bg2=F1F5F8&text_color=333333&enable_border=show&border_color=0452A1&header_bg=0452A1&header_text=FFFFFF&force_lang=1" align="center"></iframe><br /><table width="200"><tbody><tr><td style="text-align:left"><a href="https://www.investing.com" rel="nofollow" target="_blank"><img style="vertical-align:middle;" title="Investing.com" alt="Investing.com" border="0" src="https://92f8049275b46d631f32-c598b43a8fdedd4f0b9230706bd7ad18.ssl.cf1.rackcdn.com/forexpros_en_logo.png"></a></td></tr><tr><td><span style="font-size: 11px;color: #333333;text-decoration: none;">Interest Rates powered by <a href="//www.investing.com/" rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com</a>.</span></td></tr></tbody></table>
-
-<iframe src="https://www.widgets.investing.com/top-cryptocurrencies?theme=lightTheme" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe><div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;">Powered by <a href="https://www.investing.com?utm_source=WMT&amp;utm_medium=referral&amp;utm_campaign=TOP_CRYPTOCURRENCIES&amp;utm_content=Footer%20Link" target="_blank" rel="nofollow">Investing.com</a></div>
 
 
 <!-- TradingView Widget BEGIN -->
@@ -440,3 +437,5 @@ Live market insights may be found on discord or twitter. Not financial advice, f
 
 ## Newsletter
 <iframe src="https://mmxc.substack.com/embed" style="border:1px solid #EEE;" frameborder="0" scrolling="no"></iframe>
+
+<div style="height:62px; background-color: #FFFFFF; overflow:hidden; box-sizing: border-box; border: 1px solid #56667F; border-radius: 4px; text-align: right; line-height:14px; block-size:62px; font-size: 12px; font-feature-settings: normal; text-size-adjust: 100%; box-shadow: inset 0 -20px 0 0 #56667F;padding:1px;padding: 0px; margin: 0px; width: 100%;"><div style="height:40px; padding:0px; margin:0px; width: 100%;"><iframe src="https://widget.coinlib.io/widget?type=horizontal_v2&theme=light&pref_coin_id=1505&invert_hover=yes" width="100%" height="36px" scrolling="auto" marginwidth="0" marginheight="0" frameborder="0" border="0" style="border:0;margin:0;padding:0;"></iframe></div><div style="color: #FFFFFF; line-height: 14px; font-weight: 400; font-size: 11px; box-sizing: border-box; padding: 2px 6px; width: 100%; font-family: Verdana, Tahoma, Arial, sans-serif;"><a href="https://coinlib.io" target="_blank" style="font-weight: 500; color: #FFFFFF; text-decoration:none; font-size:11px">Cryptocurrency Prices</a>&nbsp;by Coinlib</div></div>
