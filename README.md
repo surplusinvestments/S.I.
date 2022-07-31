@@ -438,5 +438,5 @@ Live market insights may be found on discord or twitter. Not financial advice, f
 
 
 
-## Daily Newsletter
+# Daily Newsletter
 <iframe src="https://mmxc.substack.com/embed" style="border:1px solid #EEE;" frameborder="0" scrolling="no"></iframe>
