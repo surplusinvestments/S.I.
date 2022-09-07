@@ -15,7 +15,7 @@ Live market insights may be found on discord or twitter. Not financial advice, f
   {
   "width": 600,
   "height": 550,
-  "symbol": "SPY",
+  "symbol": "SPXUSD",
   "interval": "15",
   "timezone": "America/Los_Angeles",
   "theme": "dark",
@@ -50,9 +50,9 @@ Live market insights may be found on discord or twitter. Not financial advice, f
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/SPYUSD/?exchange=FTX" rel="noopener" target="_blank"><span class="blue-text">SPYUSD Rates</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js" async>
   {
-  "symbol": "FTX:SPYUSD",
+  "symbol": "FOREXCOM:SPXUSD",
   "width": 350,
-  "colorTheme": "light",
+  "colorTheme": "dark",
   "isTransparent": false,
   "locale": "en"
 }
@@ -75,7 +75,7 @@ Live market insights may be found on discord or twitter. Not financial advice, f
       "symbols": [
         {
           "name": "FTX:SPYUSD",
-          "displayName": "SPY FTX"
+          "displayName": "FOREXCOM:SPXUSD"
         },
         {
           "name": "AMEX:SPY"
@@ -411,13 +411,13 @@ Live market insights may be found on discord or twitter. Not financial advice, f
       "title": "SI",
       "symbols": [
         {
-          "s": "FTX:SPYUSD"
-        },
-        {
-          "s": "AMEX:SPY"
+          "s": "forexcom:SPXUSD"
         },
         {
           "s": "CME_MINI:ES1!"
+        },
+        {
+          "s": "AMEX:SPY"
         },
         {
           "s": "NASDAQ:QQQ"
@@ -432,11 +432,6 @@ Live market insights may be found on discord or twitter. Not financial advice, f
   </script>
 </div>
 <!-- TradingView Widget END -->
-
-
-
-## Newsletter
-<iframe src="https://mmxc.substack.com/embed" style="border:1px solid #EEE;" frameborder="0" scrolling="no"></iframe>
 
 
 <div style="height:62px; background-color: #FFFFFF; overflow:hidden; box-sizing: border-box; border: 1px solid #56667F; border-radius: 4px; text-align: right; line-height:14px; block-size:62px; font-size: 12px; font-feature-settings: normal; text-size-adjust: 100%; box-shadow: inset 0 -20px 0 0 #56667F;padding:1px;padding: 0px; margin: 0px; width: 100%;"><div style="height:40px; padding:0px; margin:0px; width: 100%;"><iframe src="https://widget.coinlib.io/widget?type=horizontal_v2&theme=light&pref_coin_id=1505&invert_hover=yes" width="100%" height="36px" scrolling="auto" marginwidth="0" marginheight="0" frameborder="0" border="0" style="border:0;margin:0;padding:0;"></iframe></div><div style="color: #FFFFFF; line-height: 14px; font-weight: 400; font-size: 11px; box-sizing: border-box; padding: 2px 6px; width: 100%; font-family: Verdana, Tahoma, Arial, sans-serif;"><a href="https://coinlib.io" target="_blank" style="font-weight: 500; color: #FFFFFF; text-decoration:none; font-size:11px">Cryptocurrency Prices</a>&nbsp;by Coinlib</div></div>
