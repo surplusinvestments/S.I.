@@ -25,6 +25,8 @@ Manage risk using the position tool located on the left toolbar above the smiley
   "withdateranges": true,
   "hide_side_toolbar": false,
   "allow_symbol_change": true,
+  "details": true,
+  "calendar": true,
   "studies": [
     "MAExp@tv-basicstudies"
   ],
