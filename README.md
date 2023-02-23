@@ -185,14 +185,14 @@ Manage risk using the position tool located on the left toolbar above the smiley
 <img src="https://user-images.githubusercontent.com/93648666/159547033-5c83e024-35d6-4eb4-a3f9-85c535944b6c.png" width="175" height="175">
 [Instagram](https://www.instagram.com/surplusinvestments/) 
 
-//<img src="https://user-images.githubusercontent.com/93648666/159547059-efc55726-2e13-4274-88d5-6cad9fb8c0b3.png" width="200" height="125">
-//[TradingView](url) 
+<img src="https://user-images.githubusercontent.com/93648666/159547059-efc55726-2e13-4274-88d5-6cad9fb8c0b3.png" width="200" height="125">
+[TradingView](url) 
 
-//<img src="https://user-images.githubusercontent.com/93648666/159547047-f0f10b94-1699-41e6-8237-4385fa208e9c.png" width="200" height="125">
-//[YouTube](https://www.youtube.com/channel/UCwqRwTKwieJxXN-ZSDZ1EAw/featured)
+<img src="https://user-images.githubusercontent.com/93648666/159547047-f0f10b94-1699-41e6-8237-4385fa208e9c.png" width="200" height="125">
+[YouTube](https://www.youtube.com/channel/UCwqRwTKwieJxXN-ZSDZ1EAw/featured)
 
-//<img src="https://user-images.githubusercontent.com/93648666/159547076-72d42b69-391c-4bfe-9769-1de6eedfb19e.png" width="175" height="175">
-//[Facebook](url)
+<img src="https://user-images.githubusercontent.com/93648666/159547076-72d42b69-391c-4bfe-9769-1de6eedfb19e.png" width="175" height="175">
+[Facebook](url)
 
 
 
