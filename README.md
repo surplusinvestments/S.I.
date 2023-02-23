@@ -44,22 +44,6 @@ Manage risk using the position tool located on the left toolbar above the smiley
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/SPYUSD/?exchange=FTX" rel="noopener" target="_blank"><span class="blue-text">SPYUSD Rates</span></a> by TradingView</div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js" async>
-  {
-  "symbol": "FOREXCOM:SPXUSD",
-  "width": 350,
-  "colorTheme": "dark",
-  "isTransparent": false,
-  "locale": "en"
-}
-  </script>
-</div>
-<!-- TradingView Widget END -->
-
-<!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/markets/" rel="noopener" target="_blank"><span class="blue-text">Financial Markets</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
   {
