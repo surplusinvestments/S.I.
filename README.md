@@ -40,10 +40,6 @@ Manage risk using the position tool located on the left toolbar above the smiley
 </div>
 <!-- TradingView Widget END -->
 
-<a class="twitter-timeline" data-width="500" data-height="400" data-dnt="true" data-theme="light" href="https://twitter.com/cartier618?ref_src=twsrc%5Etfw">Tweets by cartier618</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://twitter.com/cartier618?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-dnt="true" data-show-count="false">Follow @cartier618</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/intent/tweet?screen_name=cartier618&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-text="#ES_F #SPY $ES $SPY $SPX" data-related="" data-dnt="true" data-show-count="false">Tweet to @cartier618</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
@@ -205,14 +201,14 @@ Manage risk using the position tool located on the left toolbar above the smiley
 <img src="https://user-images.githubusercontent.com/93648666/159547033-5c83e024-35d6-4eb4-a3f9-85c535944b6c.png" width="175" height="175">
 [Instagram](https://www.instagram.com/surplusinvestments/) 
 
-<img src="https://user-images.githubusercontent.com/93648666/159547059-efc55726-2e13-4274-88d5-6cad9fb8c0b3.png" width="200" height="125">
-[TradingView](url) 
+//<img src="https://user-images.githubusercontent.com/93648666/159547059-efc55726-2e13-4274-88d5-6cad9fb8c0b3.png" width="200" height="125">
+//[TradingView](url) 
 
-<img src="https://user-images.githubusercontent.com/93648666/159547047-f0f10b94-1699-41e6-8237-4385fa208e9c.png" width="200" height="125">
-[YouTube](https://www.youtube.com/channel/UCwqRwTKwieJxXN-ZSDZ1EAw/featured)
+//<img src="https://user-images.githubusercontent.com/93648666/159547047-f0f10b94-1699-41e6-8237-4385fa208e9c.png" width="200" height="125">
+//[YouTube](https://www.youtube.com/channel/UCwqRwTKwieJxXN-ZSDZ1EAw/featured)
 
-<img src="https://user-images.githubusercontent.com/93648666/159547076-72d42b69-391c-4bfe-9769-1de6eedfb19e.png" width="175" height="175">
-[Facebook](url)
+//<img src="https://user-images.githubusercontent.com/93648666/159547076-72d42b69-391c-4bfe-9769-1de6eedfb19e.png" width="175" height="175">
+//[Facebook](url)
 
 
 
