@@ -6,14 +6,14 @@ Manage risk using the position tool located on the left toolbar above the smiley
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_147f8"></div>
+  <div id="tradingview_4b3c1"></div>
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-SPY/" rel="noopener" target="_blank"><span class="blue-text">SPY chart</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
   new TradingView.widget(
   {
-  "width": 600,
-  "height": 525,
+  "width": 800,
+  "height": 550,
   "symbol": "AMEX:SPY",
   "interval": "5",
   "timezone": "America/Los_Angeles",
@@ -26,14 +26,12 @@ Manage risk using the position tool located on the left toolbar above the smiley
   "hide_side_toolbar": false,
   "allow_symbol_change": true,
   "studies": [
-    "STD;Gaps",
-    "STD;SMA",
-    "STD;Pivot%1Points%1High%1Low"
+    "STD;Gaps"
   ],
   "show_popup_button": true,
   "popup_width": "1000",
   "popup_height": "650",
-  "container_id": "tradingview_147f8"
+  "container_id": "tradingview_4b3c1"
 }
   );
   </script>
